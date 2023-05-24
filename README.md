@@ -14,6 +14,7 @@ Musical Event Scriptless is the modification of [Musical Events](https://gameban
 
 # Note
 * Some of musics had to be removed due to long duration of the music.
+* Please note that this mod is not for everyone. If you prefer more seamless experience than having musics cut off, please use the [original Musical Events](https://gamebanana.com/sounds/53978) or ~~[Musical Events for TF2C](https://gamebanana.com/sounds/61003)~~(Currently on hold and unavailable) instead.
 
 # Credits
 Thanks to [pointhurt](https://gamebanana.com/sounds/53978) for creating this masterpiece mod.
